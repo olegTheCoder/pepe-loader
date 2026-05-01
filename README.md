@@ -1,6 +1,6 @@
 # Pepe Loader
 
-A React SVG loader component with a flashy 3-phase burst animation: ФААА ✦ ШНЕЛЕ ✦ ПЭПЭ
+A React SVG loader component with a flashy 3-phase burst animation.
 
 [![Storybook](https://img.shields.io/badge/Storybook-Playground-ff4785?logo=storybook)](https://olegthecoder.github.io/pepe-loader)
 
