@@ -14,6 +14,8 @@ npm install @olegthecoder/pepe-loader
 
 Three sequential burst animations — each with a custom shape, sparks, and bold text that pops in sequence.
 
+<img src="https://raw.githubusercontent.com/olegTheCoder/pepe-loader/main/docs/pepe-loader.gif" alt="Pepe Loader" style="max-width: 300px;">
+
 ```tsx
 import { PepeLoader } from '@olegthecoder/pepe-loader';
 
